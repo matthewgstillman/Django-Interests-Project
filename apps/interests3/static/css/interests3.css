@@ -1,0 +1,21 @@
+body{
+  background-color: #3284BF;
+  color: #FFE800;
+  font-family: arial;
+}
+
+
+h1{
+  color: #FFE800;
+  font-family: cursive;
+}
+
+table{
+    width: 400px;
+    border: 1px solid white;
+    font-family: arial;
+}
+
+td{
+    text-align: center;
+}
